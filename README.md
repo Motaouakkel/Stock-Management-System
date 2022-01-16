@@ -1,10 +1,10 @@
-Este é um Sistema de Gestão de Estoque, desenvolvido com PHP, JQuery, HTML5, CSS3.
- Foram usados os seguintes Framework's -> Bootstrap 4 (CSS) & Alertify JS, e Foi usado o Padrão MVC.
+This is an Inventory Management System, developed with PHP, JQuery, HTML5, CSS3.
+  The following Framework's -> Bootstrap 4 (CSS) & Alertify JS were used, and MVC Pattern was used.
 
-O Sistema contém os seguintes recursos :
+The System contains the following features:
 
-Gestão de Produtos -> Categorias, Produtos || Gestão de Pessoas -> Clientes, Fornecedores || Gestão de Vendas -> Comprovante & Relatório || Gestão de Administradores.
+Product Management -> Categories, Products || People Management -> Customers, Suppliers || Sales Management -> Voucher & Report || Administrators Management.
 .
-Você pode fazer a DEMO do Sistema acessando o link abaixo:
+You can do the System DEMO by accessing the link below:
 
 http://blue-stock.000webhostapp.com/
